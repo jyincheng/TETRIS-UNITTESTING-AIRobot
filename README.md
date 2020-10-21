@@ -7,6 +7,6 @@ This project is about how to build a world famous game, Tetris, with java in jav
 (3) Shape: to set all kinds of shapes
 
 ### Unit Testing of Testris (code with JUnit)
-(1) Tetris.test: to test movements and the function of game-over
+(1) TetrisTest: to test movements and the function of game-over
 
 ### Training AI Robot to be A Player (code in Python)
